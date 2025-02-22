@@ -23,6 +23,8 @@
 # misc
 .DS_Store
 *.pem
+gitcommands.txt
+candymachineid.txt
 
 # debug
 npm-debug.log*
